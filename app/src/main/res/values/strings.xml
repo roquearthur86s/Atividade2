@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Atividade2</string>
+    <string name="nome">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="off">Não</string>
+    <string name="on">Sim</string>
+    <string name="Notif">Ativar Notificações</string>
+    <string name="masculino">Masculino</string>
+    <string name="Feminino">Feminino</string>
+    <string name="telefone">Telefone:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="preferencias">Preferências</string>
+    <string name="Gastronomia">Gastronomia</string>
+    <string name="Esporte">Esporte</string>
+    <string name="Cinema">Cinema</string>
+    <string name="Musica">Musica</string>
+    <string name="limpar">Limpar</string>
+    <string name="exibir">Exibir</string>
+</resources>
